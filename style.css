@@ -224,6 +224,7 @@ header.active .utils {
 
 .menu_item a {
   color: #1a1a1a;
+  text-align: center;
 }
 
 .menu_item > .con > ul > li > a {
