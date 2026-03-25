@@ -186,6 +186,7 @@ header.active .utils {
 /* 탑 바 메뉴 아이템 */
 .menu_item {
   position: absolute;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
   height: 0;
   top: 128px;
   left: 0;
